@@ -264,3 +264,13 @@ header ul.nav li{
   margin-bottom: 10px;
 }
 }
+@media screen and (max-width: 500px) {
+header .shop-cart{
+  width: 300px;
+  padding: 10px;
+}
+.full-item > div{
+  width:300px;
+
+}
+}
